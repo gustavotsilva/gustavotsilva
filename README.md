@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Gustavo Silva](http://linkedin.com/in/gustavotoledosilva).
+- 👋 Hi, I’m [Gustavo Silva](https://www.linkedin.com/in/gustavohenriquetoledo/).
 
 <!---
 gustavotsilva/gustavotsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
